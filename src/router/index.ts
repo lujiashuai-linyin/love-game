@@ -4,7 +4,7 @@ import HomePage from '../components/HomePage.vue' // 假设你有一个 Home 组
 import FireworksPage from '../components/FireworksPage.vue' // 假设你有一个 Fireworks 组件
 import PhotoWall from '../components/PhotoWall.vue'
 import WishBottle from '../components/WishBottle.vue'
-import LoveGame from '../components/LoveGame.vue'
+import LoveGame from '../components/love-games/LoveGame.vue'
 const routes = [
   {
     path: '/',

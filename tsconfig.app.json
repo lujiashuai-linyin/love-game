@@ -12,7 +12,8 @@
 
     "types": [
       "vue-router",
-      "node"
+      "node",
+      "aos"
     ]
   },
   "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.vue"]
